@@ -1,7 +1,7 @@
 name: ScottLarson
 favicon: null
-layout_spectrum: 0.9248804950620979
-typography_spectrum: 0.08922912389971316
+layout_spectrum: 0.9019
+typography_spectrum: 0.25277
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5409422961529344
+    - '#ffffff'
+    - '#000000'
+    - '#9c9c9c'
+    - '#353535'
+    - '#cbcbcb'
+  brandStrength: 0.5
   lightness: 0.6092719612643123
-  saturation: 0.30843843426555395
-  rhythmicContrast: 0.036409277468919754
+  saturation: 0.3125
+  rhythmicContrast: 0
 purpose: []
